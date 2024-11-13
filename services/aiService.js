@@ -1,3 +1,4 @@
+/*
 const { Configuration, OpenAIApi } = require('openai');
 
 // configuration pour les interactions avec l'IA
@@ -24,3 +25,4 @@ const getAIResponse = async (message) => {
 };
 
 module.exports = { getAIResponse };
+*/
