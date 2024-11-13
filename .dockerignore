@@ -1,0 +1,26 @@
+# .dockerignore
+
+# Node.js / npm
+node_modules
+npm-debug.log
+
+# Dossier de cache de npm
+.npm
+
+# Dossier de cache de Docker
+.docker
+
+# Dossier de tests
+tests
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Système d'exploitation spécifique
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration de l'éditeur
+.vscode/
+.idea/
